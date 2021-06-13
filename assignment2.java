@@ -42,6 +42,8 @@ public class test {
 //			 System.out.println(list2);
 		 }
 		 
+		 System.out.println("Candies List: "+ list2);
+		 
 		 for (i=0; i<data; i++) {
 			 sum += list2.get(i);
 		 }
